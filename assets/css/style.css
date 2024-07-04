@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.logo{
+    background-color: rgb(191, 23, 23);
+    padding: 6px 13px;
+    height: 50px;
+    margin-left: 30px;
+}
+
+.navbar{
+    background-color: black;
+    box-shadow: 0 2px 16px rgb(23, 29, 43);
+    position: fixed;
+    width: 100%;
+}
+.navegador{
+    background-color: black;
+    color: #333041;
+    background:  rgba(98, 97, 97, 0.583);
+
+}
+.dropdown-item{
+    background-color: #08080891;
+    font-weight: bolder;
+    color: #fff;
+}
+.contenedor img {
+    min-width: 100%;
+    max-width: 100%;
+    object-position: top;
+    height: 94vh ;
+   
+}
+
+img{
+height: 60%;
+}
+.contenedor{
+    height: 50vh;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #39373767;
+    color: #fff;
+    position: relative;
+    bottom: 728PX;
+
+}
+
+.h2{
+    width: 40%;
+    text-align: center;
+}
+
+.atributos{
+   
+    background-color: #2a292996;
+    color: #fff;
+    width: 100%;
+    margin-top: -512px;
+}
+
+.subatributos{
+    height: 28vh;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+.perfiles-abogados{
+    height: 37vh;
+    display: flex;
+    margin-top: 45px;
+    justify-content: center;
+}
+
+.perfiles-abogados img{
+    margin: auto;
+    cursor: pointer;
+    margin-right: 3px;
+    margin-left: 12px;
+    width: 300px;
+    height: 268px;
+}
+
+.perfiles-abogados img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.hache1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bolder;
+}
+
+.areas-legales{
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: space-evenly;
+padding: 32px;
+color: #393737;
+}
+
+.areas-orientacion{
+    height: 37vh;
+    display: flex;
+    margin-top: 45px;
+    justify-content: center;
+}
+.areas-orientacion img{
+    margin: auto;
+    cursor: pointer;
+    margin-right: 3px;
+    margin-left: 12px;
+    width: 300px;
+    height: 268px;
+}
+
+.areas-orientacion img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.orientacion{
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bolder;
+}
+
+.area-ubicacion{
+    height: 50vh;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #39373767;
+    color: #fff;
+    position: relative;
+    top: 86pX;
+}
+
+
+
+
+
+
+
+
+
+
